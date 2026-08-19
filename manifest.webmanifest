@@ -1,0 +1,9 @@
+{
+  "name": "Nova Chat AI",
+  "short_name": "Nova Chat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071017",
+  "theme_color": "#28d8a5",
+  "icons": []
+}
